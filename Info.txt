@@ -1,0 +1,1 @@
+This is a Java Web App project which will be deployed on Local Machines and will work usnig Muiltiple Vms. these Vms will host Services Like the Apache tomcat to host Java Web App, Nginx as load balancer and MySql as database. this will be Automated and created an IAC. 
